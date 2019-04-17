@@ -1,5 +1,5 @@
 {
-    "name": "migrationtest/Testmigration",
+    "name": "migrationtest/testmigration",
     "description": "This is for testing purpose",
     "type": "library",
     "license": "MIT",
