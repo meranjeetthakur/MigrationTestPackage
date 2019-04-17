@@ -1,0 +1,19 @@
+{
+    "name": "root/testmigration",
+    "description": "This is for testing purpose",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ranjeet",
+            "email": "meranjeetthakur@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ranjeet\\TestMigration\\": "src/"
+        }
+    }
+}
